@@ -1,0 +1,2 @@
+This is my first proj for GIT. 
+modified the file
